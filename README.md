@@ -49,3 +49,10 @@ There are three variants that mirror the normal three operations for output:
   * **transput**  
   Outputs in generic form (`.Str`) and includes a newline.
   
+## Version history
+
+  - **v.0.1.0**
+    - Initial version with equivalents for `say`, `print`, and `put`
+    
+## Copyright
+Copyright 2020 Matthew ‘Matéu’ Stephen Stuckwisch.  Licensed under the Artist Licence 2.0.  (But honestly, this is crazy simple, feel free to modify and embed directly in a module rather than depending on this, no need to give credit for the code if part of a larger project).
