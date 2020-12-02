@@ -1,12 +1,12 @@
 {
   "name": "Debug::Transput",
-  "description": "Write me!",
+  "description": "A module adding functions to say/print/put and return the value said/printed/put",
   "version": "0.1",
   "perl": "6.*",
   "authors": [
-    "Write me!"
+    "Matthew ‘Matéu’ Stephen STUCKWISCH"
   ],
-  "auth": "Write me!",
+  "auth": "github:alabamenhu",
   "depends": [],
   "build-depends": [],
   "test-depends": [],
@@ -14,6 +14,6 @@
     "Debug::Transput": "lib/Debug/Transput.pm6"
   },
   "resources": [],
-  "license": "Write me!",
-  "source-url": "Write me!"
+  "license": "Artistic-2.0",
+  "source-url": "https://github.com/alabamenhu/DebugTransput"
 }
