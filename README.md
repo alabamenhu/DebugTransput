@@ -51,6 +51,8 @@ There are three variants that mirror the normal three operations for output:
   
 ## Version history
 
+  - **v.0.1.1**
+    - Swapped `return` for `return-rw` to make things fully transparent.  Hat-tip to Wenzel P. P. Peppmeyer (gfldlex) for the heads up.
   - **v.0.1.0**
     - Initial version with equivalents for `say`, `print`, and `put`
     
